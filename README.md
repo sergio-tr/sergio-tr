@@ -27,7 +27,7 @@ A simple web page about Brunei using PHP, XML, SVG, KML, Python and JavaScript.
 
 ![Most Used Languages in Personal Account](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-tr)
 ![Most Used Languages in Personal Account](https://github-readme-stats.vercel.app/api/top-langs/?username=UO289930)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=didierrc&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-tr&show_icons=true) 
 
 ## Goals
 
