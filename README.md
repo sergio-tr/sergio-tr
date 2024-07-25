@@ -23,6 +23,12 @@ A simple static language compiler coded in Java.
 ### [Project 3: Brunei Web Page](https://github.com/UO289930/EscritorioVirtual)
 A simple web page about Brunei using PHP, XML, SVG, KML, Python and JavaScript.
 
+## Github Analytics:
+
+![Most Used Languages in Personal Account](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-tr)
+![Most Used Languages in Personal Account](https://github-readme-stats.vercel.app/api/top-langs/?username=UO289930)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=didierrc&show_icons=true) 
+
 ## Goals
 
 - 🚀 **Short-term**:  Diligently prepare myself for any future challenges, ensuring I am well-equipped for any opportunity that may arise.
