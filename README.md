@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a Software Engineering student at the Universi
 - 🎓 **Education**: Pursuing a degree in Software Engineering at the University of Oviedo.
 - 💻 **Interests**: Web Development, Security, Artificial Intelligence, Programming Languages and Cloud Technologies.
 - 🌟 **Skills**: 
-  - **Languages**: JavaScript, Python, Java, C#, C, C++, HTML, CSS, XML, PHP
-  - **Platforms**: React, Node
-  - **Frameworks**: Next.js, Tailwind CSS
+  - **Platforms/Frameworks/Libraries**: Node, React, Svelte, Tailwind CSS
+  - **Highly Experiencied Languages**: Java, C#, JavaScript, Python, HTML, CSS, XML
+  - **Not Highly Experienced Languages**: Rust, Go, TypeScript, C, C++,  PHP
   - **Tools**: Git, Docker, Azure, AWS, Gatling, Grafana, Prometheus, Wazuh, Elasticsearch
 
 ## Projects
