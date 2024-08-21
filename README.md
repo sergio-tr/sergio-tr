@@ -23,6 +23,9 @@ A simple static language compiler coded in Java.
 ### [Project 3: Brunei Web Page](https://github.com/UO289930/EscritorioVirtual)
 A simple web page about Brunei using PHP, XML, SVG, KML, Python and JavaScript.
 
+### [Project 4: Spotify clone](https://github.com/sergio-tr/spotify-clone)
+UI clone of spotify with some functionality
+
 ## Github Analytics:
 
 ### Personal account
