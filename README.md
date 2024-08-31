@@ -26,7 +26,7 @@ A simple web page about Brunei using PHP, XML, SVG, KML, Python and JavaScript.
 ### [Project 4: Spotify clone](https://github.com/sergio-tr/spotify-clone)
 UI clone of spotify with some functionality using Astro with React, Svelte and Tailwind
 
-### [Project 5: ChatBot](https://github.com/sergio-tr/chatgpt-clone)
+### [Project 5: ChatBot](https://github.com/sergio-tr/chatbot)
 Simple chatbot implementation with a only one messaging board in a little https server
 
 ## Github Analytics:
