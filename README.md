@@ -14,19 +14,22 @@ Welcome to my GitHub profile! I'm a Software Engineering student at the Universi
 
 ## Projects
 
-### [Project 1: Web Game](https://github.com/Arquisoft/wiq_en3a)
+### [Project 1: Personal Portfolio](https://sergiotr.netlify.app)
+Personal portfolio developed using Astro and deployed at Netlify.
+
+### [Project 2: Web Game](https://github.com/Arquisoft/wiq_en3a)
 Question-Answer game developed using React, Tailwind and Express.js and many tools for testing.
 
-### [Project 2: C-- Compiler](https://github.com/UO289930/compiler_c--)
+### [Project 3: C-- Compiler](https://github.com/UO289930/compiler_c--)
 A simple static language compiler coded in Java.
 
-### [Project 3: Brunei Web Page](https://github.com/UO289930/EscritorioVirtual)
+### [Project 4: Brunei Web Page](https://github.com/UO289930/EscritorioVirtual)
 A simple web page about Brunei using PHP, XML, SVG, KML, Python and JavaScript.
 
-### [Project 4: Spotify clone](https://github.com/sergio-tr/spotify-clone)
+### [Project 5: Spotify clone](https://github.com/sergio-tr/spotify-clone)
 UI clone of spotify with some functionality using Astro with React, Svelte and Tailwind
 
-### [Project 5: ChatBot](https://github.com/sergio-tr/chatbot)
+### [Project 6: ChatBot](https://github.com/sergio-tr/chatbot)
 Simple chatbot implementation with a only one messaging board in a little https server
 
 ## Github Analytics:
