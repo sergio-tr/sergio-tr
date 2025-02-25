@@ -1,6 +1,6 @@
 # Hi there, I'm Sergio Truébano Robles! 👋
 
-Welcome to my GitHub profile! I'm a Software Engineering student at the University of Oviedo - [UO289930](https://github.com/UO289930) - with a keen interest in web development, security, artificial intelligence, programming languages, and cloud technologies. Here's a bit more about me and what I'm currently working on.
+Welcome to my GitHub profile! I'm a Software Engineering [student](https://github.com/UO289930) at the University of Oviedo with a keen interest in web development, security, artificial intelligence, programming languages, and cloud technologies. Here's a bit more about me and what I'm currently working on.
 
 ## About Me
 
